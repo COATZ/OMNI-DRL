@@ -1,4 +1,4 @@
-# OMNI_DRL
+# OMNI-DRL
 ## Description
 This repository is still in development mode. I need to perform some code and comments clean up. If you really need access to this code, message me at artizzu@i3s.unice.fr and I will answer you ASAP.
 
